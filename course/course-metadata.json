@@ -32,16 +32,11 @@
       "name": "Hanna Akhramchuk",
       "image": "https://avatars.githubusercontent.com/u/75540219?v=4",
       "githubUsername": "akhhanna20"
-    },
-    {
-      "_id": "6864667b4b3a739e573c0e1d",
-      "name": "Doina Fitchevici",
-      "image": "https://avatars.githubusercontent.com/u/133082403?v=4",
-      "githubUsername": "DoinaFitchevici"
     }
   ],
   "status": "pending",
   "originalGithubUrl": null,
   "createdAt": "2025-07-16T19:59:34.238Z",
-  "updatedAt": "2025-07-16T19:59:34.238Z"
+  "updatedAt": "2025-07-16T19:59:34.238Z",
+  "remoteGithubUrl": "https://github.com/1992tw/english-course"
 }
