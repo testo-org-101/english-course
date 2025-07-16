@@ -1,0 +1,15 @@
+{
+  "id": "687804a6492e7e3af8a04dc8",
+  "lessonNumber": 2,
+  "title": "Basic Grammar",
+  "status": "pending",
+  "assignment": {
+    "title": "Assignment will be generated",
+    "objective": "Objective will be provided when lesson is generated",
+    "expectedCapabilities": [],
+    "instructions": [],
+    "tasks": [],
+    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+  },
+  "subsections": []
+}
