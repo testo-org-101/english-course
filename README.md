@@ -42,7 +42,6 @@ The journal should be submitted as a PDF. Include an audio recording of at least
 ## Contributors
 
 - Hanna Akhramchuk
-- Doina Fitchevici
 
 ---
 
