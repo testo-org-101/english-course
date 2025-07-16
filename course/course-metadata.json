@@ -1,0 +1,47 @@
+{
+  "id": "687804a6492e7e3af8a04dc1",
+  "title": "English Course",
+  "description": "An interactive course designed to build proficiency in English covering core areas like grammar, comprehension, vocabulary, and more. Aimed at non-english speakers, the course will boost reading, writing, speaking and listening skills in English.",
+  "learningObjectives": [
+    "Understand the basic structure of the English language",
+    "Apply grammar rules accurately",
+    "Improve reading comprehension",
+    "Enhance vocabulary",
+    "Improve speaking and writing skills"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project will require students to compile a personal journal incorporating all the skills they have learned. It should contain daily entries over a week.",
+    "planningResources": [
+      "Vocabulary list",
+      "Grammar rules and exercises"
+    ],
+    "submissionInstructions": "The journal should be submitted as a PDF. Include an audio recording of at least two entries to demonstrate speaking skills.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6800a73454438765dcfd5e07",
+    "name": "Tammam Alwafai",
+    "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [
+    {
+      "_id": "6875412897c1eb14a4924dc6",
+      "name": "Hanna Akhramchuk",
+      "image": "https://avatars.githubusercontent.com/u/75540219?v=4",
+      "githubUsername": "akhhanna20"
+    },
+    {
+      "_id": "6864667b4b3a739e573c0e1d",
+      "name": "Doina Fitchevici",
+      "image": "https://avatars.githubusercontent.com/u/133082403?v=4",
+      "githubUsername": "DoinaFitchevici"
+    }
+  ],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-16T19:59:34.238Z",
+  "updatedAt": "2025-07-16T19:59:34.238Z"
+}
